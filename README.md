@@ -19,7 +19,7 @@ Running - Thread is executing currently.
 Wait/Blocked- Thread is temporarly suspended for waiting or blocked state.
 Terminated- When thread is destroyed or stopped.
 
-How to create a thread in Java:
+#How to create a thread in Java:
 1. By extending Thread class,
 Eg:
    class MyFirstThread extends Thread {
